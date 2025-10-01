@@ -1,9 +1,14 @@
-function App() {
-	return (
-		<div className="min-h-screen flex bg-black text-white items-center justify-center text-2xl font-bold text-center">
-			Hello Vite + React + TailwindCSS!
-		</div>
-	);
-}
+import React from "react";
+import Sidebar from "./components/Sidebar/Sidebar";
+import Main from "./components/Main/Main";
+
+const App = () => {
+  return (
+    <>
+      <Sidebar />
+      <Main />
+    </>
+  );
+};
 
 export default App;
