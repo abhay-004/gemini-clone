@@ -7,7 +7,7 @@ This project replicates the modern UI and smooth user experience of Gemini AI wi
 
 ## 🔗 Live Demo
 
-👉 [Click Here to Try Gemini AI Clone](gemini-clone-alpha-pearl.vercel.app)
+👉 [Click Here to Try Gemini AI Clone](https://gemini-clone-alpha-pearl.vercel.app/)
 
 # 🚀 Gemini AI Clone
 
