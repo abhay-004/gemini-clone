@@ -1,16 +1,63 @@
-# React + Vite
+# 🚀 Gemini AI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Gemini AI Clone** built using **React.js** and **Tailwind CSS**.  
+This project replicates the modern UI and smooth user experience of Gemini AI with a clean, responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 [Click Here to Try Gemini AI Clone](https://your-live-demo-link.vercel.app)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 🚀 Gemini AI Clone
 
-## Expanding the ESLint configuration
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)  
+[![Gemini API](https://img.shields.io/badge/Google-Gemini%20API-orange?logo=google)](https://aistudio.google.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+![Responsive-Website](./src/assets/homepage.PNG)
+![Responsive-Website](./src/assets/result.PNG)
+
+## 📌 Features
+
+- ⚡ Fast and responsive UI
+- 🎨 Built with Tailwind CSS for modern styling
+- 🖼️ Gemini-inspired chat interface
+- 💬 Smooth typing & message bubbles
+- 🌙 Dark & Light mode support (optional if added)
+- 📱 Fully responsive (mobile, tablet, desktop)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Styling
+- **Vite / CRA** – Build tool (mention whichever you used)
+
+---
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/gemini-ai-clone.git
+cd gemini-ai-clone
+```
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
